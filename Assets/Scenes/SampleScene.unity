@@ -1343,7 +1343,7 @@ MonoBehaviour:
   Diem: 0
   Miss: 0
   numMax: 50
-  step: 2
+  step: 1
   textScore: {fileID: 749392533}
   textMiss: {fileID: 1545972411}
   WinorLose: {fileID: 735995975}

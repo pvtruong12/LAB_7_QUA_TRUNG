@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6fb99609e3a7d3439f44154bec02003, type: 3}
   m_Name: MessageData
   m_EditorClassIdentifier: 
-  InitWin: 65
-  InitLose: 190
+  InitWin: 80
+  InitLose: 20
